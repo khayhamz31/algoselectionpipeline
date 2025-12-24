@@ -1,0 +1,6 @@
+1. importing d2v thats clean (filepaths for extracted and the test datasets)
+
+2. running pipeline once to make sure its clean in root 
+
+3. cleaning up the helper functions so they are reusable from the folders 
+

@@ -1,0 +1,442 @@
+{
+  "4345": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4346": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4347": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4348": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4349": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4350": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4351": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4352": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4353": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4354": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4355": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4356": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4357": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4358": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4359": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4360": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4361": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4362": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4364": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4365": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4366": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4367": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4368": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4369": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4370": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4371": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4372": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4373": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4374": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4375": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4376": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4377": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4378": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4379": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4380": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4381": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4382": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4383": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4384": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4385": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4386": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "4387": {
+    "name": "mlr.classif.glmnet.preproc.preproc.tuned",
+    "algorithm_type": "3",
+    "classification_type": "Classification"
+  },
+  "4388": {
+    "name": "mlr.classif.ranger.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4389": {
+    "name": "mlr.classif.svm.preproc.preproc.tuned",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "4390": {
+    "name": "mlr.classif.rpart.preproc.preproc.tuned",
+    "algorithm_type": "2",
+    "classification_type": "Classification"
+  },
+  "6498": {
+    "name": "weka.CostSensitiveClassifier_FilteredClassifier_AttributeSelectedClassifier_RandomForest",
+    "algorithm_type": "6499",
+    "classification_type": "6500, 6501, 6502, 6503, 6504, 6505, 6507, 6508, 6514, 6515, 6516, 6517, 6518, 6519, 6520, 6521, 6522, 6523, 6524, 6525, 6526, 6527, 6528, 6529, 6530, 6531, 6533, 6534, 6535, 6536, 6537, 6541, NOT TARGET, Other"
+  },
+  "6506": {
+    "name": "weka.Vote_J48",
+    "algorithm_type": "6509",
+    "classification_type": "6510, 6511, 6512, 6513, 6532, 6538, 6539, 6540, 6542, 6543, Classification"
+  },
+  "9401": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PLY=sklearn.preprocessing.data.PolynomialFeatures,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,NYS=sklearn.kernel_approximation.Nystroem,EXT=sklearn.tree.tree.ExtraTreeClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9402": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RBF=sklearn.kernel_approximation.RBFSampler,RF=sklearn.ensemble.forest.RandomForestClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9403": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RBF=sklearn.kernel_approximation.RBFSampler,CART=sklearn.tree.tree.DecisionTreeClassifier)",
+    "algorithm_type": "2",
+    "classification_type": "Decision Tree"
+  },
+  "9404": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RF=sklearn.ensemble.forest.RandomForestClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9405": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PLY=sklearn.preprocessing.data.PolynomialFeatures,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RBF=sklearn.kernel_approximation.RBFSampler,RF=sklearn.ensemble.forest.RandomForestClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9409": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PLY=sklearn.preprocessing.data.PolynomialFeatures,NOR=sklearn.preprocessing.data.Normalizer,SPC=sklearn.feature_selection.univariate_selection.SelectPercentile,NYS=sklearn.kernel_approximation.Nystroem,CART=sklearn.tree.tree.DecisionTreeClassifier)",
+    "algorithm_type": "2",
+    "classification_type": "Decision Tree"
+  },
+  "9411": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,RBS=sklearn.preprocessing.data.RobustScaler,FIC=sklearn.decomposition.fastica_.FastICA,LGR=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "3",
+    "classification_type": "Linear Models"
+  },
+  "9413": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PLY=sklearn.preprocessing.data.PolynomialFeatures,MMS=sklearn.preprocessing.data.MinMaxScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RF=sklearn.ensemble.forest.RandomForestClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9414": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PLY=sklearn.preprocessing.data.PolynomialFeatures,MAS=sklearn.preprocessing.data.MaxAbsScaler,FAG=sklearn.cluster.hierarchical.FeatureAgglomeration,RF=sklearn.ensemble.forest.RandomForestClassifier)",
+    "algorithm_type": "4",
+    "classification_type": "Random Forest"
+  },
+  "9430": {
+    "name": "sklearn.pipeline.Pipeline(SMP=sklearn.impute.SimpleImputer,PCA=sklearn.decomposition.pca.PCA,LGR=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "3",
+    "classification_type": "Linear Models"
+  },
+  "17205": {
+    "name": "sklearn.pipeline.C37aa142f81cbd1(n1=sklearn.compose._column_transformer.C37aa142f81c055(n2=sklearn.preprocessing._function_transformer.C8e8033acd132),c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Linear Models"
+  },
+  "17208": {
+    "name": "sklearn.pipeline.C59102054b61f0(n3=sklearn.pipeline.C37aa1434f1cddc(n4=sklearn.pipeline.C37aa1434f1c060(n5=sklearn.compose._column_transformer.C37aa1434f1bce2(n6=sklearn.preprocessing._function_transformer.C59102054b5f77)),n7=sklearn.pipeline.C37aa1434f1caf2(n8=sklearn.compose._column_transformer.C59102054b60ef(n9=sklearn.preprocessing._function_transformer.C37aa1434f1c832))),n10=fastsklearnfeature.transformations.IdentityTransformation.C37aa1434f1d208,c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Linear Models"
+  },
+  "17217": {
+    "name": "sklearn.pipeline.C37aa14424ab94a(n11=sklearn.pipeline.C37aa14424ab4e0(n12=sklearn.pipeline.C5910206a11142(n13=sklearn.pipeline.C37aa14424aa704(n14=sklearn.pipeline.C37aa14424a9899(n15=sklearn.compose._column_transformer.C37aa14424a957b(n16=sklearn.preprocessing._function_transformer.C37aa14424a92f0)),n17=sklearn.pipeline.C37aa14424aa33a(n18=sklearn.compose._column_transformer.C5910206a1102c(n19=sklearn.preprocessing._function_transformer.C37aa14424aa09e))),n20=fastsklearnfeature.transformations.IdentityTransformation.C37aa14424aab4d),n21=sklearn.pipeline.C5910206a111d3(n22=sklearn.compose._column_transformer.C37aa14424ab0dc(n23=sklearn.preprocessing._function_transformer.C37aa14424aafd3))),n24=fastsklearnfeature.transformations.IdentityTransformation.C37aa14424ab833,c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Linear Models"
+  },
+  "18153": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=automl.components.data_preprocessing.imputation.ImputationComponent,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18153",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18154": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.decomposition._factor_analysis.FactorAnalysis,step_2=sklearn.tree._classes.DecisionTreeClassifier)",
+    "algorithm_type": "18154",
+    "classification_type": "Decision Tree, Classification"
+  },
+  "18156": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.feature_selection._variance_threshold.VarianceThreshold,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18156",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18157": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18157",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18158": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.impute._knn.KNNImputer,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18158",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18159": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.preprocessing._data.RobustScaler,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18159",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18163": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.decomposition._pca.PCA,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18163",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18164": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.decomposition._factor_analysis.FactorAnalysis,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18164",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18175": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=automl.components.data_preprocessing.imputation.ImputationComponent,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18175",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18176": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.data_preprocessing.imputation.ImputationComponent,step_1=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18176",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18177": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=sklearn.impute._knn.KNNImputer,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18177",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18178": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18178",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18179": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=sklearn.feature_selection._variance_threshold.VarianceThreshold,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18179",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18180": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=sklearn.preprocessing._data.StandardScaler,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18180",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18188": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.decomposition._kernel_pca.KernelPCA,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18188",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18191": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.preprocessing._data.PolynomialFeatures,step_2=sklearn.ensemble._forest.RandomForestClassifier)",
+    "algorithm_type": "18191",
+    "classification_type": "Random Forest, Classification"
+  },
+  "18196": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=sklearn.preprocessing._data.MaxAbsScaler,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "18196",
+    "classification_type": "Support Vector Machine, Classification"
+  },
+  "18409": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=automl.util.sklearn.StackingEstimator(estimator=sklearn.naive_bayes.BernoulliNB),step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "18410": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=automl.util.sklearn.StackingEstimator(estimator=sklearn.discriminant_analysis.LinearDiscriminantAnalysis),step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "18419": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=automl.util.sklearn.StackingEstimator(estimator=sklearn.linear_model._stochastic_gradient.SGDClassifier),step_2=sklearn.tree._classes.DecisionTreeClassifier)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "18434": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=sklearn.preprocessing._data.RobustScaler,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "18437": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.multi_column_label_encoder.MultiColumnLabelEncoderComponent,step_1=automl.util.sklearn.StackingEstimator(estimator=sklearn.naive_bayes.BernoulliNB),step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "18444": {
+    "name": "sklearn.pipeline.Pipeline(step_0=automl.components.feature_preprocessing.one_hot_encoding.OneHotEncoderComponent,step_1=sklearn.decomposition._pca.PCA,step_2=sklearn.svm._classes.SVC)",
+    "algorithm_type": "1",
+    "classification_type": "Classification"
+  },
+  "6544": {
+    "name": "extra.neural_network.NeuralNetwork",
+    "algorithm_type": "6545",
+    "classification_type": "NOT TARGET, Other"
+  },
+  "11633": {
+    "name": "sklearn.pipeline.C37669fed729167(n1=sklearn.compose._column_transformer.C37669fed728f40(n2=sklearn.preprocessing._function_transformer.C37669fed728d42),c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Logistic Regression"
+  },
+  "11636": {
+    "name": "sklearn.pipeline.C37669ff17d8f25(n3=sklearn.pipeline.C37669ff17d84e4(n4=sklearn.pipeline.C37669ff17d6b8d(n5=sklearn.compose._column_transformer.C37669ff17d6681(n6=sklearn.preprocessing._function_transformer.C37669ff17d620d)),n7=sklearn.pipeline.C37669ff17d7eb1(n8=sklearn.compose._column_transformer.C37669ff17d7b92(n9=sklearn.preprocessing._function_transformer.C37669ff17d795a))),n10=fastsklearnfeature.transformations.IdentityTransformation.C37669ff17d8c66,c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Logistic Regression"
+  },
+  "11654": {
+    "name": "sklearn.pipeline.C3766a0115215de(n1=sklearn.compose._column_transformer.C3766a0115213a4(n2=sklearn.preprocessing._function_transformer.C3766a011521141),c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Logistic Regression"
+  },
+  "11657": {
+    "name": "sklearn.pipeline.C3766a02c4eb85a(n3=sklearn.compose._column_transformer.C3766a02c4eb609(n4=sklearn.preprocessing._function_transformer.C3766a02c4eb3fa),c=sklearn.linear_model.logistic.LogisticRegression)",
+    "algorithm_type": "Classification",
+    "classification_type": "Logistic Regression"
+  }
+}

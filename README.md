@@ -21,7 +21,16 @@ To reproduce plots and results comparing different benchmark suites, execute the
 relevant notebooks in the `helper` directory, ensuring that the `suite_id` and
 `random_seed` parameters are set appropriately.
 
-## Running the experiment 
+# Running the experiment for single benchmark suite
+1. Install dependencies (packages and clone modified Dataset2Vec)
+2. Execute `metalearning_pipeline.ipynb` notebook from top to bottom
+
+# Outputs 
+1. OpenML datasets are stored in test_datasets
+2. Meta-features are stored in qualities/d2v/metafeatures.csv (Dataset2Vec) and qualities/traditional/metafeatures.csv
+3. Baselearner performance metrics are stored in runs/accuracies/{dataset_id}/{base_learner}
+4. Meta-classifier results are stored in results/meta_classifier_results, meta-regressor results are stored in results/meta_regressor_results and results/regresscomparison
+5. Further analysis is stored in ...
 
 
 # Dataset2Vec implementation

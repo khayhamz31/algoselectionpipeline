@@ -21,6 +21,7 @@ To reproduce plots and results comparing different benchmark suites, execute the
 relevant notebooks in the `helper` directory, ensuring that the `suite_id` and
 `random_seed` parameters are set appropriately.
 
+## Running the experiment 
 
 
 # Dataset2Vec implementation

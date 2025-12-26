@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 def extract_metafeatures_from_datasets(
     data_root="test_datasets",
-    extraction_script="extract_meta_features.py",
+    extraction_script="Dataset2Vec/extract_meta_features.py",
     extracted_folder="extracted",
     output_file="qualities/d2v/metafeatures.csv"
 ):
@@ -35,11 +35,12 @@ def extract_metafeatures_from_datasets(
 
         try:
             subprocess.run(
-                ["python", extraction_script, "--file", dataset_name],
-                capture_output=False,
-                text=True,
-                check=True
-            )
+                    ["python", extraction_script, "--file", dataset_name],
+                    capture_output=False,
+                    text=True,
+                    check=True,
+                    cwd=os.getcwd()
+                )
             extracted_count += 1
         except subprocess.CalledProcessError:
             skipped_count += 1

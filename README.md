@@ -4,12 +4,7 @@ This repository contains a reproducible experimental pipeline for evaluating
 meta-learning approaches to algorithm selection using traditional meta-features,
 Dataset2Vec embeddings, and hybrid combinations on OpenML benchmark suites.
 
-The pipeline evaluates algorithm selection performance by first gathering
-performance metrics of base learning algorithms across multiple datasets, and
-then training and evaluating meta-models using different types of meta-features.
-A single experimental iteration compares meta-models trained on traditional
-meta-features, Dataset2Vec meta-features, and their hybrid combination within a
-given benchmark suite.
+The pipeline first downloads datasets from OpenML according to the selected benchmark suite. It then extracts dataset representations using two approaches: traditional meta-features obtained via the OpenML API, and deep learning–based meta-features computed using the Dataset2Vec model. Next, it collects performance metrics of the base learning algorithms across all datasets. Using these inputs, the pipeline trains and evaluates meta-models for algorithm selection. Each experimental iteration compares meta-models trained on traditional meta-features, Dataset2Vec meta-features, and their hybrid combination within the same benchmark suite.
 
 The core experiment can be executed through the notebook
 `metalearning_pipeline.ipynb`, which relies on the following scripts:

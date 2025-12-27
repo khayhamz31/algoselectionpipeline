@@ -34,6 +34,27 @@ relevant notebooks in the `helper` directory, ensuring that the `suite_id` and
 5. Meta-regressor results are stored in `results/meta_regressor_results` and
    `results/regresscomparison`.
 
+## Requirements
+
+This project is implemented in Python (≥3.9) and relies on the following core
+scientific and machine learning libraries:
+
+- **NumPy**, **Pandas**, **SciPy** — numerical computation and data handling
+- **scikit-learn** — preprocessing, baseline models, and meta-models
+- **matplotlib**, **seaborn** — visualisation
+- **OpenML** — dataset and run retrieval
+- **PyMFE** — traditional meta-feature extraction
+- **XGBoost** — tree-based learning algorithms
+- **TensorFlow** — deep meta-feature extraction (Dataset2Vec)
+- **tqdm** — progress monitoring
+- **ipywidgets** — interactive benchmark selection in notebooks
+
+All required packages can be installed via:
+
+```bash
+pip install -r requirements.txt
+
+
 ## Dataset2Vec implementation
 
 Dataset2Vec is a model developed by Hadi Jomaa that extracts vector

@@ -51,8 +51,7 @@ scientific and machine learning libraries:
 
 All required packages can be installed via:
 
-```bash
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Dataset2Vec implementation

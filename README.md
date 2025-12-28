@@ -16,6 +16,28 @@ To reproduce plots and results comparing different benchmark suites, execute the
 relevant notebooks in the `helper` directory, ensuring that the `suite_id` and
 `random_seed` parameters are set appropriately.
 
+## Repository state (28/12)
+
+- The repository is no longer forked from the original Dataset2Vec
+  implementation. The modified Dataset2Vec repository is cloned via the first
+  cell in `metalearning_pipeline.ipynb`.
+- All files in this repository were created specifically for the experiments
+  conducted in this thesis.
+- A `requirements.txt` file is included to document the required Python
+  dependencies.
+- A README is provided describing the structure of the repository and how to
+  run the experimental pipeline.
+
+### Notes
+
+- The pipeline runs successfully for benchmark suite 225. For benchmark suite
+  99, execution of the full meta-regressor experiment can be computationally
+  expensive and may require extended runtime.
+- Additional result aggregation and analysis notebooks in the `helper`
+  directory are currently being finalised.
+
+The repository will continue to be developed and maintained.
+
 ## Running the experiment for a single benchmark suite
 
 1. Install the required dependencies and clone the modified Dataset2Vec
